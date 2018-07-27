@@ -1,0 +1,9 @@
+[book]
+title = "Criando e empacotando uma aplicação CLI"
+description = """\
+    Uma demonstração do tooling envolvido na criação de uma aplicação para \
+    linha de comando e o envio para o crates.io. Pretendo falar sobre o uso \
+    do Cargo, as bibliotecas mais comuns para parsear argumentos (clap, \
+    structopt, thunder e docopt) e tratamento de erros com failure.\
+"""
+authors = ["Cauê Baasch de Souza"]
